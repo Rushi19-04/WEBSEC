@@ -15,7 +15,7 @@ Follow these steps to install and run the extension in your browser:
 ### 1. Download the Extension Files
 Download or clone this repository to your local machine.
 ```bash
-git clone https://github.com/PoojaMhatre2004/WebSec.git
+git clone https://github.com/Rushi19-04/WEBSEC.git
 ```
 ### 2. Enable Developer Mode
 - Open Google Chrome or any Chromium-based browser.
