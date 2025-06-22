@@ -7,10 +7,10 @@
 Here’s how the WEBSEC extension works:
 
 ### 🔒 Safe Website Popup
-![Safe Site](safe.png)
+![Safe Site](safe.jpg)
 
 ### ⚠️ Phishing Website Popup
-![Phishing Site ](phishing.png)
+![Phishing Site ](phishing.jpg)
 
 ## Features:
 - 🔘 **Manual Detection**: User must click the pinned extension icon to run detection.
