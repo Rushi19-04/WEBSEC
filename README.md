@@ -41,4 +41,4 @@ Feel free to open an issue or submit a pull request if you have any improvements
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](License) file for details.
