@@ -1,12 +1,11 @@
 # WEBSEC - Phishing Detection Browser Extension
 
-This browser extension detects phishing websites and shows a warning popup when the user clicks the extension icon. It analyzes the webpage content to identify potential phishing sites based on a predefined detection mechanism.
+**WEBSEC** is a lightweight Chrome extension that allows users to manually check if a website is potentially phishing or safe. When the user clicks on the **pinned extension icon**, the popup appears and displays the detection status based on simple pattern checks.It analyzes the webpage content to identify potential phishing sites based on a predefined detection mechanism.
 
 ## Features:
-- Detect phishing websites based on custom logic (e.g., URL checks).
-- Show a warning popup when phishing is detected.
-- Show a safe message if the website is not detected as phishing.
-- Manual trigger: Click on the extension icon to run the detection.
+- 🔘 **Manual Detection**: User must click the pinned extension icon to run detection.
+- 🕵️‍♂️ **Phishing Check Logic**: Identifies suspicious domains using basic heuristics (e.g., keyword matching, URL patterns).
+- 📋 **Popup Display**: Shows a message inside the popup — either “Phishing site detected” or “This site seems safe.”
 
 ## Installation
 
